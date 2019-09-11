@@ -9,7 +9,7 @@ class SmsAuthConsumer extends Command
 {
     private const CHANNEL = 'sms_auth';
 
-    /*
+    /**
      * Название для вызова команды.
      *
      * @var string
